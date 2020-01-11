@@ -61,7 +61,7 @@ def splash():
 # splash()
 
 
-root.iconbitmap(r'about - Copy.ico')
+# root.iconbitmap(r'about - Copy.ico')
 # root.iconphoto(default='True')
 root.title('Bulk printer V3.0.0-py')
 root.configure(background='#dcebf1')
